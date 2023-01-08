@@ -1,0 +1,4 @@
+include ':mssql'
+include ':jtds-1.2.7'
+include ':app'
+rootProject.name = "My Application"

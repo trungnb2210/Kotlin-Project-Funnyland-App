@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Funnyland</string>
+    <string name="intro">Welcome to our store</string>
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email">Email</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register"><u>Register</u></string>
+
+
+    <string name="register_title">CREATE AN ACCOUNT</string>
+    <string name="btn_register">Register</string>
+    <string name="et_first_name">First Name</string>
+    <string name="et_last_name">Last Name</string>
+    <string name="et_confirm_password">Confirm Password</string>
+    <string name="terms_and_conditions">I Agree To The <u> Terms &amp; Conditions </u></string>
+
+    <string name="existing_account">Already have an account?</string>
+    <string name="login"><u>Login</u></string>
+
+    <string name="err_msg_enter_first_name">Please enter first name</string>
+    <string name="err_msg_enter_last_name">Please enter last name</string>
+    <string name="err_msg_enter_email">Please enter email</string>
+    <string name="err_msg_enter_password">Please enter password</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password</string>
+    <string name="err_msg_password_mismatch">Password and confirm password does not match</string>
+    <string name="err_msg_agree_terms_and_conditions">Please agree with the terms and conditions</string>
+    <string name="err_msg_enter_mobile_number">Please enter mobile number</string>
+
+    <string name="register_successful">Creating account... </string>
+
+    <string name="please_wait">Please Wait...&#8230;</string>
+    <string name="login_successful">Logging in...</string>
+
+    <string name="title_forgot_password">Forgot Password</string>
+    <string name="forgot_password_description">Enter your email address, we will send you an email to reset your password</string>
+    <string name="btn_lbl_submit">Submit</string>
+
+    <string name="reset_email_sent">Email sent successfully to reset your password</string>
+    <string name="verification_email_sent">Verification email sent successfully to verify your email</string>
+
+    <string name="profile_title">PROFILE</string>
+    <string name="et_hint_mobile_number">Mobile Number</string>
+    <string name="btn_lbl_male">MALE</string>
+    <string name="btn_lbl_female">FEMALE</string>
+    <string name="btn_lbl_save">Save</string>
+
+    <string name="read_storage_permission_denied">Storage permission denied. You can allow it from settings.</string>
+    <string name="image_selection_failed">Image selection failed</string>
+
+    <string name="msg_profile_update_success">Your profile was updated successfully</string>
+</resources>
